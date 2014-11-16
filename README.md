@@ -1,4 +1,6 @@
-Class-project-1
+<h1>Web Development Class</h1>
 ===============
 
-&lt;h1>Web Development Class&lt;/h1>
+  First Project of Web Developer, very basic website.
+  
+
